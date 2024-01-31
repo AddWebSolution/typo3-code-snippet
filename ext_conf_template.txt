@@ -1,0 +1,24 @@
+#
+# Extension Configuration template
+#
+
+# cat=Login; type=string; label=API URL : If set, this apiurl will be used instead of...
+apiUrl =
+
+# cat=Login; type=string; label=Frontend URL : If set, this Frontend url will be used instead of...
+frontendUrl =
+
+# cat=Login; type=string; label=User Name: If set, this username will be used instead of...
+userName =
+
+# cat=Login; type=string; label=Password : If set, this password will be used instead of...
+password =
+
+#############
+### Shortcodes ###
+#############
+
+
+
+# cat=Shortcodes/500/10; type=user[PlusItde\SoTypo3\UserFunctions\ExtensionConfiguration\Shortcode->shortcode_1]; label=Shortcodes - display
+shortcode_1 = 0

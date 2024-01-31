@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" datatype="plaintext" original="messages" date="2023-12-29UTC10:27:470">
+        <header>
+            <authorName>Plus IT</authorName>
+            <authorEmail>taniya.ganguly@plus-it.de</authorEmail>
+        </header>
+        <body>
+            <trans-unit id="faq" resname="faq">
+                <source>FAQ</source>
+            </trans-unit>
+            <trans-unit id="faq.question" resname="faq.question">
+                <source>Question</source>
+            </trans-unit>
+
+        </body>
+    </file>
+</xliff>

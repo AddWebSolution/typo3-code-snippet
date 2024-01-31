@@ -1,0 +1,23 @@
+{
+    "name": "plus-itde/so-typo3",
+    "type": "typo3-cms-extension",
+    "description": "Solo Typo3 extension for Showing Shortcodes",
+    "homepage": "https://www.plus-it.de",
+    "license": ["GPL-2.0-or-later"],
+    "keywords": ["TYPO3 CMS"],
+    "require": {
+        "typo3/cms-core": "^12.4",
+        "typo3/cms-rte-ckeditor": "^12.4",
+        "typo3/cms-fluid-styled-content": "^12.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "PlusItde\\SoTypo3\\": "Classes/"
+        }
+    },
+    "extra": {
+        "typo3/cms": {
+            "extension-key": "so_typo3"
+        }
+    }
+}
