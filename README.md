@@ -1,6 +1,23 @@
 # typo3-code-snippet
 A TYPO3 extension for listing Seminer related details from simplyorg api.
 
+# Requirement 
+we need 12.4 version typo3 , and extension zip 
+
+#  installing process
+
+we need to create 'package' directory in root file and add to unzip file there , in main composer.json file we have to write this syntaxt :
+
+```
+"repositories": [
+		{
+			"type": "path",
+			"url": "packages/*"
+		}
+	],
+
+```
+
 First need to install this plugin with  composer by mentioned command below 
 
 ```
