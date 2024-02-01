@@ -17,6 +17,16 @@ Go to Typoscript menu and select Edit TypoScript record > Edit the whole TypoScr
 # create page 
 add short code 
 
+# example of shortcode 
+
+```
+[seminarList :] 
+```
+# For Language specific we have attribute 
+```
+[seminarList lang='de'] 
+```
+
 # we are go to go ....
 
 
