@@ -44,7 +44,7 @@ add short code
 [seminarList lang='de'] 
 ```
 
-# we are go to go ....
+# we are good to go ....
 
 
 
